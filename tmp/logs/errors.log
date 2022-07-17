@@ -1,0 +1,482 @@
+[Sat-07-2022 15:48:52] Текст ошибки: Опять уйня какая то! | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 8 
+===================
+[Sat-07-2022 15:49:24] Текст ошибки: Опять уйня какая то! | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 8 
+===================
+[Sat-07-2022 15:56:21] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 9 
+===================
+[Sat-07-2022 15:59:34] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 9 
+===================
+[Sat-07-2022 16:00:54] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 9 
+===================
+[Sat-07-2022 16:01:46] Текст ошибки: Возникла ошибка запроса! | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 8 
+===================
+[Sat-07-2022 16:01:51] Текст ошибки: Возникла ошибка запроса! | Файл: D:\OpenServer\domains\localhost\framework\public\index.php | Строка: 8 
+===================
+[Sat-07-2022 18:02:07] Текст ошибки: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 42 
+===================
+[Sat-07-2022 19:20:26] Текст ошибки: Пейдж нот фоунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 36 
+===================
+[Sat-07-2022 19:23:34] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:23:38] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:23:57] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:24:53] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 35 
+===================
+[Sat-07-2022 19:42:30] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:42:52] Текст ошибки: Контроллер <b>{$controller}</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:43:29] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:43:43] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:44:21] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:44:30] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:47:18] Текст ошибки: Контроллер <b>{$controller}</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:47:52] Текст ошибки: Контроллер <b>app\controllers\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:48:08] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:48:17] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:49:06] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:49:12] Текст ошибки: Контроллер <b>app\controllers\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:50:20] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:50:28] Текст ошибки: Контроллер <b>app\controllers\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 19:51:48] Текст ошибки: Метод <b>app\controllers\MainController::indexAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:52:29] Текст ошибки: Метод <b>app\controllers\MainController::indexAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:52:31] Текст ошибки: Метод <b>app\controllers\MainController::indexAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 40 
+===================
+[Sat-07-2022 19:58:21] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:58:38] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 19:59:16] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 20:01:01] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 20:01:10] Текст ошибки: Контроллер <b>app\controllers\admin\PageController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 20:04:06] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 46 
+===================
+[Sat-07-2022 20:05:58] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:06:10] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:06:22] Текст ошибки: Контроллер <b>app\controllers\admin\TestController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:12:27] Текст ошибки: Контроллер <b>app\controllers\admin\TestController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:12:35] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:12:43] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:14:12] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:14:34] Текст ошибки: Контроллер <b>app\controllers\admin\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:15:13] Текст ошибки: Контроллер <b>app\controllers\admin\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:15:41] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:16:45] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:16:53] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:19:59] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:30:21] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:30:24] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:30:33] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:31:25] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 20:31:48] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:34:38] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:44:37] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:44:40] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:47:25] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:54:39] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:56:39] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:57:06] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:57:08] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 20:58:03] Текст ошибки: Метод <b>app\controllers\PageController::indexAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 21:03:51] Текст ошибки: Метод <b>app\controllers\PageController::indexAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 21:07:53] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:12:00] Текст ошибки: Контроллер <b>app\controllers\admin\ProductNewController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:13:52] Текст ошибки: Контроллер <b>app\controllers\admin\ProductNewController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 21:13:56] Текст ошибки: Контроллер <b>app\controllers\admin\ProductNewController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 21:14:49] Текст ошибки: Контроллер <b>app\controllers\admin\PageController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 21:18:14] Текст ошибки: Контроллер <b>app\controllers\admin\MainController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 21:20:03] Текст ошибки: Контроллер <b>app\controllers\admin\ProductNewController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 43 
+===================
+[Sat-07-2022 21:35:53] Текст ошибки: Контроллер <b>app\controllers\PagController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:36:44] Текст ошибки: Метод <b>app\controllers\PageController::newProductAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 21:37:16] Текст ошибки: Метод <b>app\controllers\PageController::newProductAction</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 21:37:50] Текст ошибки: Контроллер <b>app\controllers\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:39:00] Текст ошибки: Контроллер <b>app\controllers\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:39:44] Текст ошибки: Контроллер <b>app\controllers\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:40:10] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:41:27] Текст ошибки: Контроллер <b>app\controllers\admin\NewProductController</b> нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:45:27] Текст ошибки: Контроллер <b>app\controllers\AdmiController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:46:10] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:46:40] Текст ошибки: Метод <b>app\controllers\PageController::indexAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 21:47:16] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:47:52] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:48:07] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:48:25] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:48:38] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:48:49] Текст ошибки: Контроллер <b>app\controllers\AdmiController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:49:14] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:49:25] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:49:35] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:49:53] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:50:21] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 21:51:01] Текст ошибки: Контроллер <b>app\controllers\admin\PagController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:51:37] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:51:55] Текст ошибки: Контроллер <b>app\controllers\admin\PagController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:52:20] Текст ошибки: Контроллер <b>app\controllers\admin\PagController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:52:35] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:53:20] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:53:33] Текст ошибки: Контроллер <b>app\controllers\admin\PagController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:54:59] Текст ошибки: Контроллер <b>app\controllers\admin\PagController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:55:16] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:55:43] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:55:59] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:56:23] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:56:45] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:57:04] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 21:59:48] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:01:56] Текст ошибки: syntax error, unexpected token "__FILE__", expecting "," or ";" | Файл: D:\OpenServer\domains\localhost\framework\app\controllers\admin\MainController.php | Строка: 10 
+===================
+[Sat-07-2022 22:03:40] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:13:55] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:14:27] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 22:14:41] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 22:14:55] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 22:15:02] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 22:15:15] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:16:08] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:17:15] Текст ошибки: Пейдж нот фаунд | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 47 
+===================
+[Sat-07-2022 22:18:54] Текст ошибки: Контроллер <b>app\controllers\admin\ProductController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:19:25] Текст ошибки: Контроллер <b>app\controllers\admin\ProductController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:21:01] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 44 
+===================
+[Sat-07-2022 22:21:24] Текст ошибки: Метод <b>app\controllers\admin\MainController::viewAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 22:22:40] Текст ошибки: Метод <b>app\controllers\admin\MainController::viewAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 41 
+===================
+[Sat-07-2022 23:15:27] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 49 
+===================
+[Sun-07-2022 12:45:17] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 12:53:48] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 12:54:05] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 12:57:50] Текст ошибки: Метод <b>app\controllers\admin\MainController::indexAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 55 
+===================
+[Sun-07-2022 12:58:09] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 12:58:41] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 12:59:16] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 12:59:45] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 12:59:57] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:00:24] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:01:02] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:01:16] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:01:38] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:01:59] Текст ошибки: Контроллер <b>app\controllers\AdminController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:02:13] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:02:27] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:02:54] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:04:24] Текст ошибки: Too few arguments to function wfm\Controller::getView(), 0 passed in D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php on line 50 and exactly 1 expected | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 29 
+===================
+[Sun-07-2022 13:17:02] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:18:24] Текст ошибки: Typed property wfm\Controller::$view must not be accessed before initialization | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 31 
+===================
+[Sun-07-2022 13:18:54] Текст ошибки: Undefined property: app\controllers\admin\MainController::$view | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 31 
+===================
+[Sun-07-2022 13:18:54] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:19:51] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:21:29] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:26:26] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 34 
+===================
+[Sun-07-2022 13:27:17] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:27:32] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:27:35] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:27:41] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:28:22] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:33:35] Текст ошибки: Метод <b>app\controllers\admin\MainController::indexAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 55 
+===================
+[Sun-07-2022 13:34:04] Текст ошибки: Контроллер <b>app\controllers\admin\VieController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:34:12] Текст ошибки: Метод <b>app\controllers\admin\MainController::indexAction</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 55 
+===================
+[Sun-07-2022 13:34:45] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:39:45] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:49:43] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:49:47] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:49:58] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:50:00] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 13:50:13] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:51:26] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:54:08] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 13:54:32] Текст ошибки: Контроллер <b>app\controllers\admin\MaiController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:59:17] Текст ошибки: Контроллер <b>app\controllers\admin\MaiController</b> не обнаружен | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Router.php | Строка: 58 
+===================
+[Sun-07-2022 13:59:31] Текст ошибки: syntax error, unexpected token "/", expecting "->" or "?->" or "{" or "[" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 27 
+===================
+[Sun-07-2022 13:59:59] Текст ошибки: syntax error, unexpected token "$" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 27 
+===================
+[Sun-07-2022 14:00:20] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:01:24] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:05:29] Текст ошибки: Call to undefined function Exception() | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 32 
+===================
+[Sun-07-2022 14:05:52] Текст ошибки: Не найден вид <b>index</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 32 
+===================
+[Sun-07-2022 14:08:32] Текст ошибки: Не найден вид <b>index</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 31 
+===================
+[Sun-07-2022 14:10:05] Текст ошибки: Не найден вид <b>index</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 31 
+===================
+[Sun-07-2022 14:11:12] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:13:11] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:22:05] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:22:09] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:24:53] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:25:23] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:25:38] Текст ошибки: Не найден вид <b>D:\OpenServer\domains\localhost\framework/app/views/Main/.php</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 31 
+===================
+[Sun-07-2022 14:25:52] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, null returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 32 
+===================
+[Sun-07-2022 14:26:12] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:29:55] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:33:12] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:33:16] Текст ошибки: Не найден вид <b>D:\OpenServer\domains\localhost\framework/app/views/admin/Main/index.php</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 31 
+===================
+[Sun-07-2022 14:33:29] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:39:45] Текст ошибки: wfm\Controller::getView(): Return value must be of type string, none returned | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\Controller.php | Строка: 33 
+===================
+[Sun-07-2022 14:44:01] Текст ошибки: Не найден вид <b>D:\OpenServer\domains\localhost\framework/app/views/admin/Main/index.php</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 31 
+===================
+[Sun-07-2022 14:57:46] Текст ошибки: Шаблон <b>D:\OpenServer\domains\localhost\framework/app/views/layouts/ishop.php не найден</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 41 
+===================
+[Sun-07-2022 14:58:24] Текст ошибки: Не найден шаблон <b>D:\OpenServer\domains\localhost\framework/app/views/layouts/ishop.php</b> | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 41 
+===================
+[Sun-07-2022 15:12:29] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 8 
+===================
+[Sun-07-2022 15:12:45] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 8 
+===================
+[Sun-07-2022 15:14:10] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 11 
+===================
+[Sun-07-2022 15:15:23] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 11 
+===================
+[Sun-07-2022 15:15:23] Текст ошибки: Undefined constant "view" | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 14 
+===================
+[Sun-07-2022 15:15:41] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 11 
+===================
+[Sun-07-2022 15:16:20] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 11 
+===================
+[Sun-07-2022 15:17:03] Текст ошибки: Undefined property: wfm\View::$title | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 11 
+===================
+[Sun-07-2022 15:18:26] Текст ошибки: Undefined variable $content | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 14 
+===================
+[Sun-07-2022 15:39:34] Текст ошибки: Undefined array key "title" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 50 
+===================
+[Sun-07-2022 15:39:34] Текст ошибки: Undefined array key "description" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 51 
+===================
+[Sun-07-2022 15:39:34] Текст ошибки: Undefined array key "keywords" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 52 
+===================
+[Sun-07-2022 17:16:12] Текст ошибки: syntax error, unexpected fully qualified name "\R" | Файл: D:\OpenServer\domains\localhost\framework\app\controllers\MainController.php | Строка: 12 
+===================
+[Sun-07-2022 17:16:46] Текст ошибки: syntax error, unexpected token ";", expecting "]" | Файл: D:\OpenServer\domains\localhost\framework\config\db.php | Строка: 3 
+===================
+[Sun-07-2022 17:17:17] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:19:56] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:21:37] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:24:56] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:24:58] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:25:46] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:27:12] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:27:14] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:28:37] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:29:18] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:30:02] Текст ошибки: strpos(): Argument #1 ($haystack) must be of type string, array given | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 329 
+===================
+[Sun-07-2022 17:30:13] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 17:31:43] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 17:32:17] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 17:32:59] Текст ошибки: Undefined variable $test | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:16:40] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'framework.user' doesn't exist | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206 
+===================
+[Sun-07-2022 18:31:33] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'framework.name' doesn't exist | Файл: D:\OpenServer\domains\localhost\framework\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206 
+===================
+[Sun-07-2022 18:32:17] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:33:24] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:34:20] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:38:09] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:39:38] Текст ошибки: Array to string conversion | Файл: D:\OpenServer\domains\localhost\framework\app\views\Main\index.php | Строка: 2 
+===================
+[Sun-07-2022 18:39:38] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 15 
+===================
+[Sun-07-2022 18:43:21] Текст ошибки: syntax error, unexpected token "foreach" | Файл: D:\OpenServer\domains\localhost\framework\app\views\Main\index.php | Строка: 2 
+===================
+[Sun-07-2022 18:44:15] Текст ошибки: syntax error, unexpected token "foreach" | Файл: D:\OpenServer\domains\localhost\framework\app\views\Main\index.php | Строка: 2 
+===================
+[Sun-07-2022 18:45:48] Текст ошибки: Undefined property: wfm\View::$getDbLogs | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 19 
+===================
+[Sun-07-2022 18:46:37] Текст ошибки: Call to undefined function wfm\debug() | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 65 
+===================
+[Sun-07-2022 18:47:10] Текст ошибки: Undefined constant "wfm\logs" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 65 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: Undefined array key "title" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 52 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: Undefined array key "description" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 53 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: Undefined array key "keywords" | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 54 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: Undefined variable $users | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 16 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: D:\OpenServer\domains\localhost\framework\app\views\layouts\default.php | Строка: 16 
+===================
+[Sun-07-2022 19:09:40] Текст ошибки: Call to a member function getDatabase() on null | Файл: D:\OpenServer\domains\localhost\framework\vendor\wfm\View.php | Строка: 75 
+===================
